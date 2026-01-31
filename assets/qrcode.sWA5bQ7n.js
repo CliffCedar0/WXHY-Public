@@ -1,1 +1,1 @@
-const s="gpj.6AstmliB-edocrq/stessa/".split("").reverse().join("");export{s as _};
+const s="/assets/qrcode-BilmtsA6.jpg";export{s as _};

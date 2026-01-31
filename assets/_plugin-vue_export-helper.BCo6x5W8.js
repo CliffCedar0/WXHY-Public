@@ -1,1 +1,1 @@
-const o=(_0xbb5750,_0x171d22)=>{const _0x40c9a7=_0xbb5750['__vccOpts']||_0xbb5750;for(const[_0x366b7e,_0x5760de]of _0x171d22)_0x40c9a7[_0x366b7e]=_0x5760de;return _0x40c9a7;};export{o as _};
+const o=(o,t)=>{const c=o.__vccOpts||o;for(const[s,n]of t)c[s]=n;return c};export{o as _};
