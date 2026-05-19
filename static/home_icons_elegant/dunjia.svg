@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect x="12" y="12" width="104" height="104" rx="26" fill="#fffdf7" stroke="#d5b36b" stroke-width="3"/>
+  <rect x="34" y="34" width="60" height="60" rx="8" fill="none" stroke="#5d4037" stroke-width="4"/>
+  <path d="M54 34v60M74 34v60M34 54h60M34 74h60" stroke="#d5b36b" stroke-width="3"/>
+  <text x="64" y="72" text-anchor="middle" font-family="STSong, Songti SC, serif" font-size="28" font-weight="700" fill="#8b4513">遁</text>
+</svg>

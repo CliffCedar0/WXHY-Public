@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect x="12" y="12" width="104" height="104" rx="26" fill="#fffdf7" stroke="#d5b36b" stroke-width="3"/>
+  <circle cx="64" cy="64" r="36" fill="none" stroke="#5d4037" stroke-width="4"/>
+  <circle cx="64" cy="64" r="25" fill="none" stroke="#d5b36b" stroke-width="2.5"/>
+  <path d="M64 28v14M64 86v14M28 64h14M86 64h14" stroke="#d5b36b" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="64" y="80" text-anchor="middle" font-family="STSong, Songti SC, serif" font-size="52" font-weight="700" fill="#5d4037">壬</text>
+</svg>
